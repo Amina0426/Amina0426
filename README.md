@@ -95,20 +95,6 @@ A regression project for predicting housing prices using the California Housing 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amina0426&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amina0426&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Amina0426&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Find Me
 
 - [GitHub](https://github.com/Amina0426)
