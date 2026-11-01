@@ -112,7 +112,7 @@ A regression project for predicting housing prices using the California Housing 
 ## 🌐 Find Me
 
 - [GitHub](https://github.com/Amina0426)
-- [Portfolio]()
+- [Portfolio](https://port-folio-murex-five.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/aminafatima26/)
 
 ---
